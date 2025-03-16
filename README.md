@@ -1,7 +1,11 @@
 # Olá! Eu sou Amanda Maia 👩🏾‍💻. 
 
 ## Sobre mim
-Sou desenvolvedora de software focada em desenvolvimento mobile 📱, apaixonada por criar soluções inovadoras e eficientes.
+🚀 Engenharia da Computação | Back-End Developer
+💻 Apaixonada por tecnologia e desenvolvimento de software
+⚡ Trabalho com JavaScript, TypeScript, Node.js, PostgreSQL e MySQL
+🌐 Também exploro React, Next.js, HTML e CSS
+📚 Sempre em busca de aprendizado e novos desafios!
 
 ## Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-maia-580211290/)
