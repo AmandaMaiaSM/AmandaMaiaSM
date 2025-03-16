@@ -1,11 +1,11 @@
 # Olá! Eu sou Amanda Maia 👩🏾‍💻. 
 
 ## Sobre mim
-🚀 Engenharia da Computação | Back-End Developer
-💻 Apaixonada por tecnologia e desenvolvimento de software
-⚡ Trabalho com JavaScript, TypeScript, Node.js, PostgreSQL e MySQL
-🌐 Também exploro React, Next.js, HTML e CSS
-📚 Sempre em busca de aprendizado e novos desafios!
+🚀 Engenharia da Computação | Back-End Developer <br>
+💻 Apaixonada por tecnologia e desenvolvimento de software <br>
+⚡ Trabalho com JavaScript, TypeScript, Node.js, PostgreSQL e MySQL <br>
+🌐 Também exploro React, Next.js, HTML e CSS <br>
+📚 Sempre em busca de aprendizado e novos desafios! <br>
 
 ## Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-maia-580211290/)
